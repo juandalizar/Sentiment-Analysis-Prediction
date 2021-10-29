@@ -1,0 +1,2 @@
+# Sentiment-Analysis-Prediction
+Everyday many products popping into the online market daily, customers depend highly on the customer reviews story of products on eCommerce sites to make decisions about their purchase. Since It will be tedious for the customer to make selection if they should check one by one of the product they needed. Here comes 'reviews' where customers who have already got that product leave a rating after using them and brief their experience by giving reviews. Based on the reviews given by the user, the products can be recommended to another user.
